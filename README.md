@@ -1,6 +1,3 @@
-# age-detection-ml-pipeline
-Real-time and offline machine learning pipeline for age detection using OpenCV and PyTorch, simulating Tesla's diagnostic system.
-
 # 🚀 Age Detection ML Pipeline – Tesla-Inspired Diagnostic System
 
 This project simulates Tesla’s NVH (Noise Vibration Harshness) diagnostic workflow using a modular age detection system. Built with OpenCV and PyTorch, it supports real-time webcam detection, offline batch processing, CNN training, and model evaluation.
