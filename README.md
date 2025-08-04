@@ -73,13 +73,8 @@ It mimics how a Tesla engineer would build, deploy, and scale perception-based M
 ---
 
 ## 📈 Results (Simulated)
-results = {
-    'live_inference': 'Real-time (30 FPS)',
-    'batch_speed': '< 200 ms/image',
-    'cnn_accuracy': '87%',
-    'logging': 'enabled',
-    'scalability': '10k+ images supported'
-}
+<img width="505" height="248" alt="image" src="https://github.com/user-attachments/assets/29ac6ebb-5c40-43ba-bd47-0885a4dcee65" />
+
 
 🔄 Future Improvements
 -Add audio event detection (for Tesla NVH alignment)
