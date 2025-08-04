@@ -76,10 +76,14 @@ It mimics how a Tesla engineer would build, deploy, and scale perception-based M
 <img width="505" height="248" alt="image" src="https://github.com/user-attachments/assets/29ac6ebb-5c40-43ba-bd47-0885a4dcee65" />
 
 
-🔄 Future Improvements
--Add audio event detection (for Tesla NVH alignment)
--Export CNN model to ONNX / TorchScript
--Add Streamlit or Flask GUI
+## 🔄 Future Improvements
+
+- [ ] Add audio event detection (for Tesla NVH alignment)  
+- [ ] Export CNN model to ONNX / TorchScript  
+- [ ] Add Streamlit or Flask GUI  
+- [ ] Real-time face tracking + age + emotion detection  
+- [ ] Deploy to Jetson Nano / Raspberry Pi for edge inference  
+
 -Real-time face tracking + age + emotion detection
 -Deploy to Jetson Nano / Raspberry Pi for edge inference
 
